@@ -1,0 +1,17 @@
+{
+    "name": "xheroku",
+    "description": "deploy x to heroku",
+    "keywords": ["xray"],
+    "env": {
+        "PROTOCOL": {
+            "description": "choose vless or vmess",
+            "value": "vless"
+        },
+        "UUID": {
+            "description": "x UUID",
+            "value": "36cfc3de-ecfd-4752-ae6f-8f0f92035143"        
+        }
+    },
+    "repository": "https://github.com/seav/heroku",
+    "stack": "container"
+}
