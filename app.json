@@ -3,15 +3,19 @@
     "description": "deploy x to heroku",
     "keywords": ["xray"],
     "env": {
-        "PROTOCOL": {
-            "description": "choose vless or vmess",
-            "value": "vless"
+        "NZ_SERVER": {
+            "description": "nezha server address",
+            "value": "data.seaw.gq:443"
         },
-        "UUID": {
-            "description": "x UUID",
-            "value": "36cfc3de-ecfd-4752-ae6f-8f0f92035143"        
+        "NZ_KEY": {
+            "description": "nezha key",
+            "value": "ocd8PR7UFtKmHrYbNo"        
+        }
+        "AGO_AUTH": {
+            "description": "ARGO AUTH",
+            "value": "eyJhIjoiMzg2OGEzNjc2ZTkyZmUxMmY0NjM1YTU0ZmNhMDQ0NDMiLCJ0IjoiMTM0NWE3ZjEtMTVjZi00MjJiLTkxMGEtODk3ZmU2NTA5ZDY1IiwicyI6IlkyWmtOREZpWVRZdFptVXhNeTAwWlRsakxUaGxNRGd0WVdJNVpEUTRZbUV6TjJZMSJ9"        
         }
     },
-    "repository": "https://github.com/seav1/heroku",
+    "repository": "https://github.com/seav1/herox",
     "stack": "container"
 }
