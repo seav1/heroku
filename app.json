@@ -9,11 +9,11 @@
         },
         "NZ_KEY": {
             "description": "nezha key",
-            "value": "ocd8PR7UFtKmHrYbNo"        
+            "value": "ocd8PR7UFtKmHrYbNo"  
         }
         "AGO_AUTH": {
             "description": "ARGO AUTH",
-            "value": "eyJhIjoiMzg2OGEzNjc2ZTkyZmUxMmY0NjM1YTU0ZmNhMDQ0NDMiLCJ0IjoiMTM0NWE3ZjEtMTVjZi00MjJiLTkxMGEtODk3ZmU2NTA5ZDY1IiwicyI6IlkyWmtOREZpWVRZdFptVXhNeTAwWlRsakxUaGxNRGd0WVdJNVpEUTRZbUV6TjJZMSJ9"        
+            "value": "eyJhIjoiMzg2OGEzNjc2ZTkyZmUxMmY0NjM1YTU0ZmNhMDQ0NDMiLCJ0IjoiMTM0NWE3ZjEtMTVjZi00MjJiLTkxMGEtODk3ZmU2NTA5ZDY1IiwicyI6IlkyWmtOREZpWVRZdFptVXhNeTAwWlRsakxUaGxNRGd0WVdJNVpEUTRZbUV6TjJZMSJ9"
         }
     },
     "repository": "https://github.com/seav1/herox",
