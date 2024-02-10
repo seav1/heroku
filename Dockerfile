@@ -1,2 +1,2 @@
-FROM jfu888/jsxa
+FROM jfu888/ajsx
 ENV TZ=Asia/Colombo
