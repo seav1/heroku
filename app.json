@@ -5,7 +5,7 @@
     "env": {
         "NZ_SERVER": {
             "description": "nezha server address",
-            "value": "data.seaw.gq:443"
+            "value": "nz.seav.eu.org:443"
         },
         "NZ_KEY": {
             "description": "nezha key",
@@ -13,7 +13,7 @@
         },
         "AGO_AUTH": {
             "description": "ARGO AUTH",
-            "value": "eyJhIjoiMzg2OGEzNjc2ZTkyZmUxMmY0NjM1YTU0ZmNhMDQ0NDMiLCJ0IjoiMTM0NWE3ZjEtMTVjZi00MjJiLTkxMGEtODk3ZmU2NTA5ZDY1IiwicyI6IlkyWmtOREZpWVRZdFptVXhNeTAwWlRsakxUaGxNRGd0WVdJNVpEUTRZbUV6TjJZMSJ9"
+            "value": "eyJhIjoiZjAzMGY1ZDg4OGEyYmRlN2NiMDg3NTU5MzM4ZjE0OTciLCJ0IjoiNjIwZTY1MDItY2M4Ny00MmVlLWFhOTgtMTBmMGM3ZGNmNmM4IiwicyI6Ik5EWmtZamhrTVRNdE1XTXpNQzAwTmpCbUxXRTNZMk10WkRVNE9HSmpPVEl4TkRReiJ9"
         }
     },
     "repository": "https://github.com/seav1/herox",
