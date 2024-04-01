@@ -5,7 +5,7 @@
     "env": {
         "NZ_SERVER": {
             "description": "nezha server address",
-            "value": "nz.seav.eu.org:443"
+            "value": "nz.seav.eu.org"
         },
         "NZ_KEY": {
             "description": "nezha key",
