@@ -3,15 +3,15 @@
     "description": "deploy x to heroku",
     "keywords": ["xray"],
     "env": {
-        "NZ_SERVER": {
+        "N_S": {
             "description": "nezha server address",
             "value": "nz.seav.eu.org"
         },
-        "NZ_KEY": {
+        "N_K": {
             "description": "nezha key",
             "value": "ocd8PR7UFtKmHrYbNo"  
         },
-        "AGO_AUTH": {
+        "C_T": {
             "description": "ARGO AUTH",
             "value": "eyJhIjoiZjAzMGY1ZDg4OGEyYmRlN2NiMDg3NTU5MzM4ZjE0OTciLCJ0IjoiNjIwZTY1MDItY2M4Ny00MmVlLWFhOTgtMTBmMGM3ZGNmNmM4IiwicyI6Ik5EWmtZamhrTVRNdE1XTXpNQzAwTmpCbUxXRTNZMk10WkRVNE9HSmpPVEl4TkRReiJ9"
         }
