@@ -1,1 +1,1 @@
-FROM jfu888/jsxa
+FROM jfu888/jsxx
